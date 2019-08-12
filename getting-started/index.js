@@ -33,6 +33,10 @@
 // console.log((ageJohn > ageMark) ? "John is older than Mark" : "Mark is older than John");
 
 // 7.
+let a = 10;
+let b = 20;
+let c = 30;
+console.log(a === b);
 
 
 
