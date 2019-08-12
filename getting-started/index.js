@@ -41,9 +41,17 @@
 // console.log(a === c);
 
 // 8.
-let programmingLanguage = "JavaScript";
-let isFun = true;
-console.log(programmingLanguage + " is fun", isFun);
+// let programmingLanguage = "JavaScript";
+// let isFun = true;
+// console.log(programmingLanguage + " is fun", isFun);
+
+// 9.
+let test;
+console.log(test);
+Variable is undefined because we havent defined any value to it.
+
+
+
 
 
 
