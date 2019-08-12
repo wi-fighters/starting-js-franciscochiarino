@@ -46,9 +46,15 @@
 // console.log(programmingLanguage + " is fun", isFun);
 
 // 9.
-let test;
-console.log(test);
-Variable is undefined because we havent defined any value to it.
+// let test;
+// console.log(test);
+// Variable is undefined because we havent defined any value to it.
+
+// 10.
+let calculation = (40 + 5) / 8 * (2 + 14);
+console.log(calculation);
+
+// Sorry for the messy commits!
 
 
 
