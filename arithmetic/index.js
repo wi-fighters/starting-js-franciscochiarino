@@ -55,9 +55,18 @@
 // console.log(`${formulaHeron} cm³`);
 
 // Volume of a Cube 
-const cubeSide = 9
-const cubeArea = cubeSide * cubeSide * cubeSide;
-console.log(`${cubeArea} cm³`);
+// const cubeSide = 9;
+// const cubeArea = cubeSide * cubeSide * cubeSide;
+// console.log(`${cubeArea} cm³`);
+
+// 7.
+
+//At the Movies
+const profit = 6450;
+const ticket = 15;
+const people = 6450 / 15;
+console.log(`${people} people purchased a ticket`);
+
 
 
 
