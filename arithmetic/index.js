@@ -16,11 +16,20 @@
 // console.log(average);
 
 // The Minimum Score
-const x = 78
-const result = 96
-const actualAverage = (8 * x) / 8;
-const minimumAverage = ((x * 8) + result) / 9;
-console.log(`James need a minimum of ${result}% to get an 80% average.`);
+// const x = 78
+// const result = 96
+// const actualAverage = (8 * x) / 8;
+// const minimumAverage = ((x * 8) + result) / 9;
+// console.log(`James need a minimum of ${result}% to get an 80% average.`);
+
+// 5. Consumer Formula
+const payOne = 22.35
+const payTwo = 26.67
+const payThree = 35.92
+console.log((payOne * 10) / 100);
+console.log((payTwo * 15) / 100);
+console.log((payThree * 20) / 100);
+
 
 
 
