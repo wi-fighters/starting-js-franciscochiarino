@@ -38,8 +38,14 @@
 // console.log(squarePerimeter + "cm");
 
 // Perimeter of a Triangle
-const trianglePerimeter = 5 + 6 + 7;
-console.log(trianglePerimeter + "cm");
+// const trianglePerimeter = 5 + 6 + 7;
+// console.log(trianglePerimeter + "cm");
+
+// Area of a Square
+const squareSide = 5
+const squareArea = squareSide * squareSide
+console.log(squareArea);
+
 
 
 
