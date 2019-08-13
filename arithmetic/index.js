@@ -42,9 +42,19 @@
 // console.log(trianglePerimeter + "cm");
 
 // Area of a Square
-const squareSide = 5
-const squareArea = squareSide * squareSide
-console.log(`${squareArea} cm²`);
+// const squareSide = 5
+// const squareArea = squareSide * squareSide
+// console.log(`${squareArea} cm²`);
+
+// Area of a Triangle
+const sideOne = 5;
+const sideTwo = 6;
+const sideThree = 7;
+const s = (sideOne + sideTwo + sideThree) / 2;
+const formulaHeron = Math.sqrt(s * (s - sideOne) * (s - sideTwo) * (s - sideThree));
+console.log(formulaHeron);
+
+
 
 
 
