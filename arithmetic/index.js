@@ -61,11 +61,16 @@
 
 // 7.
 
-//At the Movies
-const profit = 6450;
-const ticket = 15;
-const people = 6450 / 15;
-console.log(`${people} people purchased a ticket`);
+// At the Movies
+// const profit = 6450;
+// const ticket = 15;
+// const people = 6450 / 15;
+// console.log(`${people} people purchased a ticket`);
+
+// Income per Week
+ const sylviaIncome = 500;
+ const weeksYear = 365 / 7;
+ console.log(`Sylvia makes ${sylviaIncome * weeksYear} dollars per year`);   
 
 
 
