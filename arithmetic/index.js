@@ -44,7 +44,7 @@
 // Area of a Square
 const squareSide = 5
 const squareArea = squareSide * squareSide
-console.log(squareArea);
+console.log(`${squareArea} cm²`);
 
 
 
