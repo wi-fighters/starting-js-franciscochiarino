@@ -23,12 +23,12 @@
 // console.log(`James need a minimum of ${result}% to get an 80% average.`);
 
 // 5. Consumer Formula
-// const payOne = 22.35;
-// const payTwo = 26.67;
-// const payThree = 35.92;
-// console.log((payOne * 10) / 100);
-// console.log((payTwo * 15) / 100);
-// console.log((payThree * 20) / 100);
+const payOne = 22.35;
+const payTwo = 26.67;
+const payThree = 35.92;
+console.log(((payOne * 10) / 100) + payOne);
+console.log(((payTwo * 15) / 100) + payTwo);
+console.log(((payThree * 20) / 100) + payThree);
 
 // 6. Geometry Formulas
 
@@ -68,9 +68,9 @@
 // console.log(`${people} people purchased a ticket`);
 
 // Income per Week
- const sylviaIncome = 500;
- const weeksYear = 365 / 7;
- console.log(`Sylvia makes ${sylviaIncome * weeksYear} dollars per year`);   
+//  const sylviaIncome = 500;
+//  const weeksYear = 365 / 7;
+//  console.log(`Sylvia makes ${sylviaIncome * weeksYear} dollars per year`);   
 
 
 
