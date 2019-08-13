@@ -31,9 +31,15 @@
 // console.log((payThree * 20) / 100);
 
 // 6. Geometry Formulas
-const squareSide = 4.75;
-const squarePerimeter = squareSide * 4;
-console.log(squarePerimeter + "cm");
+
+// Perimeters of a Square
+// const squareSide = 4.75;
+// const squarePerimeter = squareSide * 4;
+// console.log(squarePerimeter + "cm");
+
+// Perimeter of a Triangle
+const trianglePerimeter = 5 + 6 + 7;
+console.log(trianglePerimeter + "cm");
 
 
 
