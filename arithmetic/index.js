@@ -47,12 +47,20 @@
 // console.log(`${squareArea} cm²`);
 
 // Area of a Triangle
-const sideOne = 5;
-const sideTwo = 6;
-const sideThree = 7;
-const s = (sideOne + sideTwo + sideThree) / 2;
-const formulaHeron = Math.sqrt(s * (s - sideOne) * (s - sideTwo) * (s - sideThree));
-console.log(formulaHeron);
+// const sideOne = 5;
+// const sideTwo = 6;
+// const sideThree = 7;
+// const s = (sideOne + sideTwo + sideThree) / 2;
+// const formulaHeron = Math.sqrt(s * (s - sideOne) * (s - sideTwo) * (s - sideThree));
+// console.log(`${formulaHeron} cm³`);
+
+// Volume of a Cube 
+const cubeSide = 9
+const cubeArea = cubeSide * cubeSide * cubeSide;
+console.log(`${cubeArea} cm³`);
+
+
+
 
 
 
